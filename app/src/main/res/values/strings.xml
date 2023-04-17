@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConsumoApi</string>
+    <string name="de">DE:</string>
+    <string name="para">PARA:</string>
+    <string name="valor">VALOR:</string>
+    <string name="resultado">Resultado</string>
+    <string name="clean">0</string>
+</resources>
